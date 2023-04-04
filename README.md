@@ -42,7 +42,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UCfu-7qaH6p1aWz4ybl4ISvA" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/frangofritohjd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -50,7 +50,7 @@
   <a href = "eduardo.rocha@ufu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-santos-b69414242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-<img src="https://media.tenor.com/E_Vb-uVd4oMAAAAM/naruto-rocklee.gif" target="_blank">
+
   
 <div align="center">
 
@@ -61,7 +61,13 @@
   
 </div>
 
-<div align="center">
+ <div align="center">
+        <img src="https://media.tenor.com/E_Vb-uVd4oMAAAAM/naruto-rocklee.gif" target="_blank" height="200" width="300">
+        <img src="https://i.pinimg.com/originals/e5/cd/0a/e5cd0ae9b5d0fd3626843cf3c10c9c1c.gif" target="_blank" height="200" width="300"> 
+        <img src="https://media.tenor.com/CAfweCgJRrgAAAAd/takemichi.gif" target="_blank" height="200" width="300">      
+ </div>
 
-  
-</div>
+
+
+
+
