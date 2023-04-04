@@ -1,9 +1,23 @@
-<div>
-   
-   <h1 align="center">
+
+
+
+
+
+<div >      
+
+
+  <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/eduardo-santos-b69414242/">Eduardo Dos Santos Rocha </a>
   </h1>
+
+
+
+
+
+<div>
+   
+ 
   
   <p align="center">
     Sou Estudante de Sistemas de Informação na UFU e gosto muito de compartilhar meu conhecimento e aprendizado.
@@ -13,14 +27,14 @@
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/duribeiro">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardodosSantosRocha2&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardodosSantosRocha2&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
   
-</div>
+</div> -->
 
 
 
@@ -68,6 +82,6 @@
  </div>
 
 
-
+</div>  
 
 
