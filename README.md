@@ -29,6 +29,7 @@
 
 
 
+
 <div align="center" style="display: flex;"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardodosSantosRocha2&show_icons=true&theme=radical)
