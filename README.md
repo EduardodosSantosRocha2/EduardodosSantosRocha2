@@ -3,6 +3,14 @@
 
 
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardodosSantosRocha2&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardodosSantosRocha2&hide_progress=true&theme=radical)](https://github.com/EduardodosSantosRocha2)
+
+  
+  
+  
 <div >      
 
   
@@ -78,8 +86,6 @@
 
  <div align="center">
         <img src="https://media.tenor.com/E_Vb-uVd4oMAAAAM/naruto-rocklee.gif" target="_blank" height="200" width="300">
-<!--         <img src="https://i.pinimg.com/originals/e5/cd/0a/e5cd0ae9b5d0fd3626843cf3c10c9c1c.gif" target="_blank" height="200" width="300">  -->
-<!--         <img src="https://media.tenor.com/CAfweCgJRrgAAAAd/takemichi.gif" target="_blank" height="200" width="300">       -->
  </div>
 
 
