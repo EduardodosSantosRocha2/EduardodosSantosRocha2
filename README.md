@@ -30,11 +30,11 @@
 
 
 
-<!-- <div align="center" style="display: inline_block"> 
+<div align="center" style="display: inline_block"> 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardodosSantosRocha2&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardodosSantosRocha2&layout=compact&theme=radical)](https://github.com/EduardodosSantosRocha2/github-readme-stats)
- </div >  -->
+ </div > 
 
 <div align="center" style="display: inline_block"><br>
  
