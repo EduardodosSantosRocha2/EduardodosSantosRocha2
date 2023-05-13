@@ -18,7 +18,7 @@
  
   
   <p align="center" >
-    Sou Estudante de Sistemas de Informação na UFU e gosto muito de compartilhar meu conhecimento e aprendizado.
+    Sou Estudante de Sistemas de Informação na UFU e gosto muito de compartilhar meus conhecimentos e aprendizados.
       
   </p>
   
