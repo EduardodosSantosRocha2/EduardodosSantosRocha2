@@ -69,7 +69,7 @@
  <div align="center">
 <!--  <img src="https://media.tenor.com/E_Vb-uVd4oMAAAAM/naruto-rocklee.gif" target="_blank" height="200" width="300"> -->
 <!--  <img src="https://media.tenor.com/VF6ZiN9PrTAAAAAC/giyuu-tomioka-kimetsu-no-yaiba.gif" target="_blank" height="200" width="300"> -->
- <img src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif" target="_blank" height="300" width="600">
+ <img src="https://media.tenor.com/abfF-YQ167UAAAAd/rock-lee-weights.gif" target="_blank" height="300" width="600">
 
 
 </div>  
