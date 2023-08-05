@@ -18,7 +18,7 @@
  
   
   <p align="center" >
-    Sou Estudante de Sistemas de Informação na UFU e gosto muito de compartilhar meus conhecimentos e aprendizados.
+    Sou amante de machine learning e mineração de dados. Como estudante de Sistemas de Informação na UFU, minha paixão por essas áreas me motiva a explorar novos horizontes e aprofundar meus conhecimentos. Além disso, adoro compartilhar o que aprendo com outros colegas e entusiastas, pois acredito que disseminar conhecimento é fundamental para o crescimento coletivo na área de tecnologia.
       
   </p>
   
